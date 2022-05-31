@@ -1,0 +1,373 @@
+2022-05-31 14:42:26,795 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Starting AccountStatementsApplication on Ashutoshs-MacBook-Pro.local with PID 37548 (/Users/ashutoshgupta/Downloads/account-statements/target/classes started by ashutoshgupta in /Users/ashutoshgupta/Downloads/account-statements)
+2022-05-31 14:42:26,804 DEBUG c.n.a.a.AccountStatementsApplication [restartedMain] Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2022-05-31 14:42:26,805 INFO c.n.a.a.AccountStatementsApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-31 14:42:28,739 DEBUG c.n.a.a.c.JwtRequestFilter [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-05-31 14:42:29,610 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Started AccountStatementsApplication in 3.777 seconds (JVM running for 5.0)
+2022-05-31 14:42:37,630 WARN c.n.a.a.c.JwtRequestFilter [http-nio-8080-exec-1] JWT Token does not begin with Bearer String
+2022-05-31 14:43:02,107 DEBUG c.n.a.a.c.AccountStatementsController [http-nio-8080-exec-3] Inside Account Statement Controller
+2022-05-31 14:45:29,134 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Starting AccountStatementsApplication on Ashutoshs-MacBook-Pro.local with PID 37548 (/Users/ashutoshgupta/Downloads/account-statements/target/classes started by ashutoshgupta in /Users/ashutoshgupta/Downloads/account-statements)
+2022-05-31 14:45:29,135 DEBUG c.n.a.a.AccountStatementsApplication [restartedMain] Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2022-05-31 14:45:29,135 INFO c.n.a.a.AccountStatementsApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-31 14:45:29,574 DEBUG c.n.a.a.c.JwtRequestFilter [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-05-31 14:45:29,816 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Started AccountStatementsApplication in 0.921 seconds (JVM running for 185.201)
+2022-05-31 14:45:36,494 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Starting AccountStatementsApplication on Ashutoshs-MacBook-Pro.local with PID 37548 (/Users/ashutoshgupta/Downloads/account-statements/target/classes started by ashutoshgupta in /Users/ashutoshgupta/Downloads/account-statements)
+2022-05-31 14:45:36,494 DEBUG c.n.a.a.AccountStatementsApplication [restartedMain] Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2022-05-31 14:45:36,494 INFO c.n.a.a.AccountStatementsApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-31 14:45:36,768 DEBUG c.n.a.a.c.JwtRequestFilter [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-05-31 14:45:36,988 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Started AccountStatementsApplication in 0.561 seconds (JVM running for 192.373)
+2022-05-31 14:47:16,568 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Starting AccountStatementsApplication on Ashutoshs-MacBook-Pro.local with PID 37548 (/Users/ashutoshgupta/Downloads/account-statements/target/classes started by ashutoshgupta in /Users/ashutoshgupta/Downloads/account-statements)
+2022-05-31 14:47:16,569 DEBUG c.n.a.a.AccountStatementsApplication [restartedMain] Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2022-05-31 14:47:16,569 INFO c.n.a.a.AccountStatementsApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-31 14:47:16,978 DEBUG c.n.a.a.c.JwtRequestFilter [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-05-31 14:47:17,216 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Started AccountStatementsApplication in 0.697 seconds (JVM running for 292.597)
+2022-05-31 14:51:22,371 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Starting AccountStatementsApplication on Ashutoshs-MacBook-Pro.local with PID 37548 (/Users/ashutoshgupta/Downloads/account-statements/target/classes started by ashutoshgupta in /Users/ashutoshgupta/Downloads/account-statements)
+2022-05-31 14:51:22,371 DEBUG c.n.a.a.AccountStatementsApplication [restartedMain] Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2022-05-31 14:51:22,372 INFO c.n.a.a.AccountStatementsApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-31 14:51:22,666 DEBUG c.n.a.a.c.JwtRequestFilter [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-05-31 14:51:22,803 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Started AccountStatementsApplication in 0.493 seconds (JVM running for 538.159)
+2022-05-31 14:51:25,408 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Starting AccountStatementsApplication on Ashutoshs-MacBook-Pro.local with PID 37548 (/Users/ashutoshgupta/Downloads/account-statements/target/classes started by ashutoshgupta in /Users/ashutoshgupta/Downloads/account-statements)
+2022-05-31 14:51:25,408 DEBUG c.n.a.a.AccountStatementsApplication [restartedMain] Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2022-05-31 14:51:25,409 INFO c.n.a.a.AccountStatementsApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-31 14:51:25,903 DEBUG c.n.a.a.c.JwtRequestFilter [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-05-31 14:51:26,061 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Started AccountStatementsApplication in 0.726 seconds (JVM running for 541.417)
+2022-05-31 14:51:46,813 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Starting AccountStatementsApplication on Ashutoshs-MacBook-Pro.local with PID 37548 (/Users/ashutoshgupta/Downloads/account-statements/target/classes started by ashutoshgupta in /Users/ashutoshgupta/Downloads/account-statements)
+2022-05-31 14:51:46,813 DEBUG c.n.a.a.AccountStatementsApplication [restartedMain] Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2022-05-31 14:51:46,814 INFO c.n.a.a.AccountStatementsApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-31 14:51:47,149 DEBUG c.n.a.a.c.JwtRequestFilter [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-05-31 14:51:47,297 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Started AccountStatementsApplication in 0.538 seconds (JVM running for 562.651)
+2022-05-31 14:52:15,099 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Starting AccountStatementsApplication on Ashutoshs-MacBook-Pro.local with PID 37548 (/Users/ashutoshgupta/Downloads/account-statements/target/classes started by ashutoshgupta in /Users/ashutoshgupta/Downloads/account-statements)
+2022-05-31 14:52:15,099 DEBUG c.n.a.a.AccountStatementsApplication [restartedMain] Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2022-05-31 14:52:15,099 INFO c.n.a.a.AccountStatementsApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-31 14:52:15,295 DEBUG c.n.a.a.c.JwtRequestFilter [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-05-31 14:52:15,420 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Started AccountStatementsApplication in 0.365 seconds (JVM running for 590.773)
+2022-05-31 14:59:00,624 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Starting AccountStatementsApplication on Ashutoshs-MacBook-Pro.local with PID 37548 (/Users/ashutoshgupta/Downloads/account-statements/target/classes started by ashutoshgupta in /Users/ashutoshgupta/Downloads/account-statements)
+2022-05-31 14:59:00,624 DEBUG c.n.a.a.AccountStatementsApplication [restartedMain] Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2022-05-31 14:59:00,624 INFO c.n.a.a.AccountStatementsApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-31 14:59:00,824 DEBUG c.n.a.a.c.JwtRequestFilter [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-05-31 14:59:00,950 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Started AccountStatementsApplication in 0.535 seconds (JVM running for 996.291)
+2022-05-31 14:59:25,717 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Starting AccountStatementsApplication on Ashutoshs-MacBook-Pro.local with PID 37548 (/Users/ashutoshgupta/Downloads/account-statements/target/classes started by ashutoshgupta in /Users/ashutoshgupta/Downloads/account-statements)
+2022-05-31 14:59:25,718 DEBUG c.n.a.a.AccountStatementsApplication [restartedMain] Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2022-05-31 14:59:25,718 INFO c.n.a.a.AccountStatementsApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-31 14:59:25,919 DEBUG c.n.a.a.c.JwtRequestFilter [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-05-31 14:59:26,034 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Started AccountStatementsApplication in 0.353 seconds (JVM running for 1021.374)
+2022-05-31 14:59:28,590 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Starting AccountStatementsApplication on Ashutoshs-MacBook-Pro.local with PID 37548 (/Users/ashutoshgupta/Downloads/account-statements/target/classes started by ashutoshgupta in /Users/ashutoshgupta/Downloads/account-statements)
+2022-05-31 14:59:28,591 DEBUG c.n.a.a.AccountStatementsApplication [restartedMain] Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2022-05-31 14:59:28,591 INFO c.n.a.a.AccountStatementsApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-31 14:59:28,813 DEBUG c.n.a.a.c.JwtRequestFilter [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-05-31 14:59:28,951 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Started AccountStatementsApplication in 0.399 seconds (JVM running for 1024.291)
+2022-05-31 15:00:50,185 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Starting AccountStatementsApplication on Ashutoshs-MacBook-Pro.local with PID 37548 (/Users/ashutoshgupta/Downloads/account-statements/target/classes started by ashutoshgupta in /Users/ashutoshgupta/Downloads/account-statements)
+2022-05-31 15:00:50,186 DEBUG c.n.a.a.AccountStatementsApplication [restartedMain] Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2022-05-31 15:00:50,186 INFO c.n.a.a.AccountStatementsApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-31 15:00:50,423 DEBUG c.n.a.a.c.JwtRequestFilter [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-05-31 15:00:50,587 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Started AccountStatementsApplication in 0.443 seconds (JVM running for 1105.924)
+2022-05-31 15:00:59,213 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Starting AccountStatementsApplication on Ashutoshs-MacBook-Pro.local with PID 37548 (/Users/ashutoshgupta/Downloads/account-statements/target/classes started by ashutoshgupta in /Users/ashutoshgupta/Downloads/account-statements)
+2022-05-31 15:00:59,213 DEBUG c.n.a.a.AccountStatementsApplication [restartedMain] Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2022-05-31 15:00:59,214 INFO c.n.a.a.AccountStatementsApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-31 15:00:59,415 DEBUG c.n.a.a.c.JwtRequestFilter [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-05-31 15:00:59,525 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Started AccountStatementsApplication in 0.356 seconds (JVM running for 1114.863)
+2022-05-31 15:01:46,613 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Starting AccountStatementsApplication on Ashutoshs-MacBook-Pro.local with PID 37548 (/Users/ashutoshgupta/Downloads/account-statements/target/classes started by ashutoshgupta in /Users/ashutoshgupta/Downloads/account-statements)
+2022-05-31 15:01:46,614 DEBUG c.n.a.a.AccountStatementsApplication [restartedMain] Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2022-05-31 15:01:46,614 INFO c.n.a.a.AccountStatementsApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-31 15:01:46,981 DEBUG c.n.a.a.c.JwtRequestFilter [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-05-31 15:01:47,105 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Started AccountStatementsApplication in 0.56 seconds (JVM running for 1162.441)
+2022-05-31 15:01:56,590 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Starting AccountStatementsApplication on Ashutoshs-MacBook-Pro.local with PID 37713 (/Users/ashutoshgupta/Downloads/account-statements/target/classes started by ashutoshgupta in /Users/ashutoshgupta/Downloads/account-statements)
+2022-05-31 15:01:56,601 DEBUG c.n.a.a.AccountStatementsApplication [restartedMain] Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2022-05-31 15:01:56,603 INFO c.n.a.a.AccountStatementsApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-31 15:01:58,790 DEBUG c.n.a.a.c.JwtRequestFilter [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-05-31 15:01:59,925 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Started AccountStatementsApplication in 4.468 seconds (JVM running for 5.841)
+2022-05-31 15:02:15,425 ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] [http-nio-8080-exec-1] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception
+com.nagarro.assignment.accountstatements.exception.UnauthorizedException: null
+	at com.nagarro.assignment.accountstatements.config.JwtRequestFilter.doFilterInternal(JwtRequestFilter.java:50) ~[classes/:?]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334) ~[spring-security-web-5.1.2.RELEASE.jar:5.1.2.RELEASE]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:116) ~[spring-security-web-5.1.2.RELEASE.jar:5.1.2.RELEASE]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334) ~[spring-security-web-5.1.2.RELEASE.jar:5.1.2.RELEASE]
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:74) ~[spring-security-web-5.1.2.RELEASE.jar:5.1.2.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334) ~[spring-security-web-5.1.2.RELEASE.jar:5.1.2.RELEASE]
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:105) ~[spring-security-web-5.1.2.RELEASE.jar:5.1.2.RELEASE]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334) ~[spring-security-web-5.1.2.RELEASE.jar:5.1.2.RELEASE]
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:56) ~[spring-security-web-5.1.2.RELEASE.jar:5.1.2.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334) ~[spring-security-web-5.1.2.RELEASE.jar:5.1.2.RELEASE]
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:215) ~[spring-security-web-5.1.2.RELEASE.jar:5.1.2.RELEASE]
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:178) ~[spring-security-web-5.1.2.RELEASE.jar:5.1.2.RELEASE]
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:357) ~[spring-web-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:270) ~[spring-web-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) ~[spring-web-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92) ~[spring-web-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93) ~[spring-web-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200) ~[spring-web-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199) [tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490) [tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408) [tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:791) [tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1417) [tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.13.jar:9.0.13]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_191]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.13.jar:9.0.13]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_191]
+2022-05-31 15:02:18,309 WARN c.n.a.a.c.JwtRequestFilter [http-nio-8080-exec-2] JWT Token does not begin with Bearer String
+2022-05-31 15:02:33,988 INFO c.n.a.a.c.AccountStatementsController [http-nio-8080-exec-3] Inside Account Statement Controller
+2022-05-31 15:02:33,988 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-3] Inside Account Statement Service
+2022-05-31 15:02:34,002 DEBUG c.n.a.a.d.AccountStatementRepo [http-nio-8080-exec-3] Inside Account Statement Repository
+2022-05-31 15:02:34,814 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-3] Fetch default last 3 months statements
+2022-05-31 15:03:01,053 INFO c.n.a.a.c.AccountStatementsController [http-nio-8080-exec-5] Inside Account Statement Controller
+2022-05-31 15:03:01,053 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-5] Inside Account Statement Service
+2022-05-31 15:03:01,055 DEBUG c.n.a.a.d.AccountStatementRepo [http-nio-8080-exec-5] Inside Account Statement Repository
+2022-05-31 15:03:01,068 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-5] Fetch default last 3 months statements
+2022-05-31 15:03:18,054 INFO c.n.a.a.c.AccountStatementsController [http-nio-8080-exec-7] Inside Account Statement Controller
+2022-05-31 15:03:18,055 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-7] Inside Account Statement Service
+2022-05-31 15:03:18,057 DEBUG c.n.a.a.d.AccountStatementRepo [http-nio-8080-exec-7] Inside Account Statement Repository
+2022-05-31 15:03:26,134 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-7] Fetch default last 3 months statements
+2022-05-31 15:03:36,499 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Starting AccountStatementsApplication on Ashutoshs-MacBook-Pro.local with PID 37713 (/Users/ashutoshgupta/Downloads/account-statements/target/classes started by ashutoshgupta in /Users/ashutoshgupta/Downloads/account-statements)
+2022-05-31 15:03:36,499 DEBUG c.n.a.a.AccountStatementsApplication [restartedMain] Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2022-05-31 15:03:36,500 INFO c.n.a.a.AccountStatementsApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-31 15:03:36,950 DEBUG c.n.a.a.c.JwtRequestFilter [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-05-31 15:03:37,408 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Started AccountStatementsApplication in 1.121 seconds (JVM running for 103.322)
+2022-05-31 15:03:48,101 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Starting AccountStatementsApplication on Ashutoshs-MacBook-Pro.local with PID 37713 (/Users/ashutoshgupta/Downloads/account-statements/target/classes started by ashutoshgupta in /Users/ashutoshgupta/Downloads/account-statements)
+2022-05-31 15:03:48,102 DEBUG c.n.a.a.AccountStatementsApplication [restartedMain] Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2022-05-31 15:03:48,102 INFO c.n.a.a.AccountStatementsApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-31 15:03:48,484 DEBUG c.n.a.a.c.JwtRequestFilter [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-05-31 15:03:48,733 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Started AccountStatementsApplication in 0.706 seconds (JVM running for 114.646)
+2022-05-31 15:03:50,407 INFO c.n.a.a.c.AccountStatementsController [http-nio-8080-exec-1] Inside Account Statement Controller
+2022-05-31 15:03:50,407 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-1] Inside Account Statement Service
+2022-05-31 15:03:50,418 DEBUG c.n.a.a.d.AccountStatementRepo [http-nio-8080-exec-1] Inside Account Statement Repository
+2022-05-31 15:03:50,429 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-1] Fetch default last 3 months statements
+2022-05-31 15:03:51,540 INFO c.n.a.a.c.AccountStatementsController [http-nio-8080-exec-3] Inside Account Statement Controller
+2022-05-31 15:03:51,540 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-3] Inside Account Statement Service
+2022-05-31 15:03:51,543 DEBUG c.n.a.a.d.AccountStatementRepo [http-nio-8080-exec-3] Inside Account Statement Repository
+2022-05-31 15:03:51,553 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-3] Fetch default last 3 months statements
+2022-05-31 15:04:05,216 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Starting AccountStatementsApplication on Ashutoshs-MacBook-Pro.local with PID 37731 (/Users/ashutoshgupta/Downloads/account-statements/target/classes started by ashutoshgupta in /Users/ashutoshgupta/Downloads/account-statements)
+2022-05-31 15:04:05,233 DEBUG c.n.a.a.AccountStatementsApplication [restartedMain] Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2022-05-31 15:04:05,234 INFO c.n.a.a.AccountStatementsApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-31 15:04:07,500 DEBUG c.n.a.a.c.JwtRequestFilter [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-05-31 15:04:08,555 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Started AccountStatementsApplication in 4.662 seconds (JVM running for 5.918)
+2022-05-31 15:04:29,347 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Starting AccountStatementsApplication on Ashutoshs-MacBook-Pro.local with PID 37731 (/Users/ashutoshgupta/Downloads/account-statements/target/classes started by ashutoshgupta in /Users/ashutoshgupta/Downloads/account-statements)
+2022-05-31 15:04:29,347 DEBUG c.n.a.a.AccountStatementsApplication [restartedMain] Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2022-05-31 15:04:29,348 INFO c.n.a.a.AccountStatementsApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-31 15:04:29,853 DEBUG c.n.a.a.c.JwtRequestFilter [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-05-31 15:04:30,178 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Started AccountStatementsApplication in 0.901 seconds (JVM running for 27.54)
+2022-05-31 15:04:32,104 INFO c.n.a.a.c.AccountStatementsController [http-nio-8080-exec-1] Inside Account Statement Controller
+2022-05-31 15:04:32,104 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-1] Inside Account Statement Service
+2022-05-31 15:04:32,113 DEBUG c.n.a.a.d.AccountStatementRepo [http-nio-8080-exec-1] Inside Account Statement Repository
+2022-05-31 15:04:32,894 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-1] Fetch default last 3 months statements
+2022-05-31 15:04:32,904 ERROR c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-1] No records found
+2022-05-31 15:05:01,364 INFO c.n.a.a.c.AccountStatementsController [http-nio-8080-exec-2] Inside Account Statement Controller
+2022-05-31 15:05:01,364 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-2] Inside Account Statement Service
+2022-05-31 15:05:01,366 DEBUG c.n.a.a.d.AccountStatementRepo [http-nio-8080-exec-2] Inside Account Statement Repository
+2022-05-31 15:05:01,382 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-2] Fetch default last 3 months statements
+2022-05-31 15:05:01,383 ERROR c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-2] No records found
+2022-05-31 15:05:20,380 WARN c.n.a.a.c.JwtRequestFilter [http-nio-8080-exec-3] JWT Token does not begin with Bearer String
+2022-05-31 15:05:33,621 INFO c.n.a.a.c.AccountStatementsController [http-nio-8080-exec-5] Inside Account Statement Controller
+2022-05-31 15:05:33,623 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-5] Inside Account Statement Service
+2022-05-31 15:05:33,626 DEBUG c.n.a.a.d.AccountStatementRepo [http-nio-8080-exec-5] Inside Account Statement Repository
+2022-05-31 15:05:33,636 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-5] Fetch default last 3 months statements
+2022-05-31 15:05:33,639 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-5] Filtered statements: [AccountStatement [date=Wed Oct 14 00:00:00 GST 2020, amount=196.801905945903], AccountStatement [date=Wed Jul 01 00:00:00 GST 2020, amount=869.966470373683], AccountStatement [date=Tue May 05 00:00:00 GST 2020, amount=578.931756366243], AccountStatement [date=Tue May 26 00:00:00 GST 2020, amount=191.608098447429], AccountStatement [date=Tue Oct 18 00:00:00 GST 2016, amount=304.375774283414], AccountStatement [date=Mon Oct 21 00:00:00 GST 2019, amount=113.619329901574], AccountStatement [date=Tue May 14 00:00:00 GST 2019, amount=957.272849951391], AccountStatement [date=Fri May 31 00:00:00 GST 2019, amount=376.672352972369], AccountStatement [date=Fri Jan 13 00:00:00 GST 2012, amount=893.061976381444], AccountStatement [date=Sat Mar 03 00:00:00 GST 2012, amount=373.950606558506], AccountStatement [date=Mon Feb 20 00:00:00 GST 2012, amount=387.671104146657], AccountStatement [date=Wed Mar 14 00:00:00 GST 2012, amount=332.588024293528], AccountStatement [date=Sat May 05 00:00:00 GST 2012, amount=803.304917411143], AccountStatement [date=Tue Jul 31 00:00:00 GST 2012, amount=828.245746980652], AccountStatement [date=Mon Oct 08 00:00:00 GST 2012, amount=396.809586959555], AccountStatement [date=Sun Dec 30 00:00:00 GST 2012, amount=811.442741186215], AccountStatement [date=Sun Jan 08 00:00:00 GST 2012, amount=161.803506518358], AccountStatement [date=Sun Aug 12 00:00:00 GST 2012, amount=427.37803489619], AccountStatement [date=Wed Jun 20 00:00:00 GST 2012, amount=258.669010375204], AccountStatement [date=Wed Aug 29 00:00:00 GST 2012, amount=537.263739510225], AccountStatement [date=Fri May 04 00:00:00 GST 2012, amount=289.279082576802], AccountStatement [date=Fri Jul 13 00:00:00 GST 2012, amount=585.269254817154], AccountStatement [date=Mon Nov 19 00:00:00 GST 2012, amount=10.4978134308631], AccountStatement [date=Wed Sep 05 00:00:00 GST 2012, amount=968.120471616201], AccountStatement [date=Wed Jul 04 00:00:00 GST 2012, amount=113.405299633134], AccountStatement [date=Sun Jan 15 00:00:00 GST 2012, amount=732.785475399635], AccountStatement [date=Thu Jun 28 00:00:00 GST 2012, amount=35.4587802498303], AccountStatement [date=Sun Apr 08 00:00:00 GST 2012, amount=452.220841246041], AccountStatement [date=Wed Nov 14 00:00:00 GST 2012, amount=376.917602681929], AccountStatement [date=Sat Nov 23 00:00:00 GST 2019, amount=103.422615473659], AccountStatement [date=Sun May 24 00:00:00 GST 2020, amount=301.475914804549]]
+2022-05-31 15:06:31,653 INFO c.n.a.a.c.AccountStatementsController [http-nio-8080-exec-7] Inside Account Statement Controller
+2022-05-31 15:06:31,654 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-7] Inside Account Statement Service
+2022-05-31 15:06:31,655 DEBUG c.n.a.a.d.AccountStatementRepo [http-nio-8080-exec-7] Inside Account Statement Repository
+2022-05-31 15:06:31,667 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-7] Filtered statements: []
+2022-05-31 15:06:31,667 ERROR c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-7] No records found
+2022-05-31 15:16:26,881 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Starting AccountStatementsApplication on Ashutoshs-MacBook-Pro.local with PID 37826 (/Users/ashutoshgupta/Downloads/account-statements/target/classes started by ashutoshgupta in /Users/ashutoshgupta/Downloads/account-statements)
+2022-05-31 15:16:26,894 DEBUG c.n.a.a.AccountStatementsApplication [restartedMain] Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2022-05-31 15:16:26,897 INFO c.n.a.a.AccountStatementsApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-31 15:16:29,007 DEBUG c.n.a.a.c.JwtRequestFilter [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-05-31 15:16:30,044 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Started AccountStatementsApplication in 4.28 seconds (JVM running for 6.083)
+2022-05-31 15:16:37,414 ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] [http-nio-8080-exec-1] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception
+com.nagarro.assignment.accountstatements.exception.UnauthorizedException: null
+	at com.nagarro.assignment.accountstatements.config.JwtRequestFilter.doFilterInternal(JwtRequestFilter.java:50) ~[classes/:?]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334) ~[spring-security-web-5.1.2.RELEASE.jar:5.1.2.RELEASE]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:116) ~[spring-security-web-5.1.2.RELEASE.jar:5.1.2.RELEASE]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334) ~[spring-security-web-5.1.2.RELEASE.jar:5.1.2.RELEASE]
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:74) ~[spring-security-web-5.1.2.RELEASE.jar:5.1.2.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334) ~[spring-security-web-5.1.2.RELEASE.jar:5.1.2.RELEASE]
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:105) ~[spring-security-web-5.1.2.RELEASE.jar:5.1.2.RELEASE]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334) ~[spring-security-web-5.1.2.RELEASE.jar:5.1.2.RELEASE]
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:56) ~[spring-security-web-5.1.2.RELEASE.jar:5.1.2.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334) ~[spring-security-web-5.1.2.RELEASE.jar:5.1.2.RELEASE]
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:215) ~[spring-security-web-5.1.2.RELEASE.jar:5.1.2.RELEASE]
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:178) ~[spring-security-web-5.1.2.RELEASE.jar:5.1.2.RELEASE]
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:357) ~[spring-web-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:270) ~[spring-web-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) ~[spring-web-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92) ~[spring-web-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93) ~[spring-web-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200) ~[spring-web-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199) [tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490) [tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408) [tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:791) [tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1417) [tomcat-embed-core-9.0.13.jar:9.0.13]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.13.jar:9.0.13]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_191]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.13.jar:9.0.13]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_191]
+2022-05-31 15:16:40,984 WARN c.n.a.a.c.JwtRequestFilter [http-nio-8080-exec-2] JWT Token does not begin with Bearer String
+2022-05-31 15:16:54,005 INFO c.n.a.a.c.AccountStatementsController [http-nio-8080-exec-4] Inside Account Statement Controller
+2022-05-31 15:16:54,005 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-4] Inside Account Statement Service
+2022-05-31 15:16:54,018 DEBUG c.n.a.a.d.AccountStatementRepo [http-nio-8080-exec-4] Inside Account Statement Repository
+2022-05-31 15:16:54,842 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-4] Filtered statements: []
+2022-05-31 15:16:54,842 ERROR c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-4] No records found
+2022-05-31 15:17:10,556 INFO c.n.a.a.c.AccountStatementsController [http-nio-8080-exec-6] Inside Account Statement Controller
+2022-05-31 15:17:10,557 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-6] Inside Account Statement Service
+2022-05-31 15:17:10,563 DEBUG c.n.a.a.d.AccountStatementRepo [http-nio-8080-exec-6] Inside Account Statement Repository
+2022-05-31 15:17:10,580 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-6] Filtered statements: [AccountStatement [date=Wed Oct 14 00:00:00 GST 2020, amount=196.801905945903], AccountStatement [date=Wed Jul 01 00:00:00 GST 2020, amount=869.966470373683], AccountStatement [date=Tue May 05 00:00:00 GST 2020, amount=578.931756366243], AccountStatement [date=Tue May 26 00:00:00 GST 2020, amount=191.608098447429], AccountStatement [date=Tue Oct 18 00:00:00 GST 2016, amount=304.375774283414], AccountStatement [date=Mon Oct 21 00:00:00 GST 2019, amount=113.619329901574], AccountStatement [date=Tue May 14 00:00:00 GST 2019, amount=957.272849951391], AccountStatement [date=Fri May 31 00:00:00 GST 2019, amount=376.672352972369], AccountStatement [date=Fri Jan 13 00:00:00 GST 2012, amount=893.061976381444], AccountStatement [date=Sat Mar 03 00:00:00 GST 2012, amount=373.950606558506], AccountStatement [date=Mon Feb 20 00:00:00 GST 2012, amount=387.671104146657], AccountStatement [date=Wed Mar 14 00:00:00 GST 2012, amount=332.588024293528], AccountStatement [date=Sat May 05 00:00:00 GST 2012, amount=803.304917411143], AccountStatement [date=Tue Jul 31 00:00:00 GST 2012, amount=828.245746980652], AccountStatement [date=Mon Oct 08 00:00:00 GST 2012, amount=396.809586959555], AccountStatement [date=Sun Dec 30 00:00:00 GST 2012, amount=811.442741186215], AccountStatement [date=Sun Jan 08 00:00:00 GST 2012, amount=161.803506518358], AccountStatement [date=Sun Aug 12 00:00:00 GST 2012, amount=427.37803489619], AccountStatement [date=Wed Jun 20 00:00:00 GST 2012, amount=258.669010375204], AccountStatement [date=Wed Aug 29 00:00:00 GST 2012, amount=537.263739510225], AccountStatement [date=Fri May 04 00:00:00 GST 2012, amount=289.279082576802], AccountStatement [date=Fri Jul 13 00:00:00 GST 2012, amount=585.269254817154], AccountStatement [date=Wed Sep 05 00:00:00 GST 2012, amount=968.120471616201], AccountStatement [date=Wed Jul 04 00:00:00 GST 2012, amount=113.405299633134], AccountStatement [date=Sun Jan 15 00:00:00 GST 2012, amount=732.785475399635], AccountStatement [date=Sun Apr 08 00:00:00 GST 2012, amount=452.220841246041], AccountStatement [date=Wed Nov 14 00:00:00 GST 2012, amount=376.917602681929], AccountStatement [date=Sat Nov 23 00:00:00 GST 2019, amount=103.422615473659], AccountStatement [date=Sun May 24 00:00:00 GST 2020, amount=301.475914804549]]
+2022-05-31 15:19:31,537 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Starting AccountStatementsApplication on Ashutoshs-MacBook-Pro.local with PID 37826 (/Users/ashutoshgupta/Downloads/account-statements/target/classes started by ashutoshgupta in /Users/ashutoshgupta/Downloads/account-statements)
+2022-05-31 15:19:31,538 DEBUG c.n.a.a.AccountStatementsApplication [restartedMain] Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2022-05-31 15:19:31,542 INFO c.n.a.a.AccountStatementsApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-31 15:19:31,971 DEBUG c.n.a.a.c.JwtRequestFilter [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-05-31 15:19:32,221 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Started AccountStatementsApplication in 0.92 seconds (JVM running for 188.254)
+2022-05-31 15:20:40,563 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Starting AccountStatementsApplication on Ashutoshs-MacBook-Pro.local with PID 37826 (/Users/ashutoshgupta/Downloads/account-statements/target/classes started by ashutoshgupta in /Users/ashutoshgupta/Downloads/account-statements)
+2022-05-31 15:20:40,564 DEBUG c.n.a.a.AccountStatementsApplication [restartedMain] Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2022-05-31 15:20:40,565 INFO c.n.a.a.AccountStatementsApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-31 15:20:41,067 DEBUG c.n.a.a.c.JwtRequestFilter [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-05-31 15:20:41,309 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Started AccountStatementsApplication in 0.811 seconds (JVM running for 257.34)
+2022-05-31 15:24:13,136 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Starting AccountStatementsApplication on Ashutoshs-MacBook-Pro.local with PID 37900 (/Users/ashutoshgupta/Downloads/account-statements/target/classes started by ashutoshgupta in /Users/ashutoshgupta/Downloads/account-statements)
+2022-05-31 15:24:13,157 DEBUG c.n.a.a.AccountStatementsApplication [restartedMain] Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2022-05-31 15:24:13,158 INFO c.n.a.a.AccountStatementsApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-31 15:24:15,597 DEBUG c.n.a.a.c.JwtRequestFilter [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-05-31 15:24:16,839 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Started AccountStatementsApplication in 4.858 seconds (JVM running for 6.331)
+2022-05-31 15:24:32,666 WARN c.n.a.a.c.JwtRequestFilter [http-nio-8080-exec-1] JWT Token does not begin with Bearer String
+2022-05-31 15:24:45,201 INFO c.n.a.a.c.AccountStatementsController [http-nio-8080-exec-3] Inside Account Statement Controller
+2022-05-31 15:24:45,202 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-3] Inside Account Statement Service
+2022-05-31 15:24:45,215 DEBUG c.n.a.a.d.AccountStatementRepo [http-nio-8080-exec-3] Inside Account Statement Repository
+2022-05-31 15:24:46,001 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-3] Filtered statements: [AccountStatement [date=Wed Oct 14 00:00:00 GST 2020, amount=196.801905945903], AccountStatement [date=Wed Jul 01 00:00:00 GST 2020, amount=869.966470373683], AccountStatement [date=Tue May 05 00:00:00 GST 2020, amount=578.931756366243], AccountStatement [date=Tue May 26 00:00:00 GST 2020, amount=191.608098447429], AccountStatement [date=Tue Oct 18 00:00:00 GST 2016, amount=304.375774283414], AccountStatement [date=Mon Oct 21 00:00:00 GST 2019, amount=113.619329901574], AccountStatement [date=Tue May 14 00:00:00 GST 2019, amount=957.272849951391], AccountStatement [date=Fri May 31 00:00:00 GST 2019, amount=376.672352972369], AccountStatement [date=Fri Jan 13 00:00:00 GST 2012, amount=893.061976381444], AccountStatement [date=Sat Mar 03 00:00:00 GST 2012, amount=373.950606558506], AccountStatement [date=Mon Feb 20 00:00:00 GST 2012, amount=387.671104146657], AccountStatement [date=Wed Mar 14 00:00:00 GST 2012, amount=332.588024293528], AccountStatement [date=Sat May 05 00:00:00 GST 2012, amount=803.304917411143], AccountStatement [date=Tue Jul 31 00:00:00 GST 2012, amount=828.245746980652], AccountStatement [date=Mon Oct 08 00:00:00 GST 2012, amount=396.809586959555], AccountStatement [date=Sun Dec 30 00:00:00 GST 2012, amount=811.442741186215], AccountStatement [date=Sun Jan 08 00:00:00 GST 2012, amount=161.803506518358], AccountStatement [date=Sun Aug 12 00:00:00 GST 2012, amount=427.37803489619], AccountStatement [date=Wed Jun 20 00:00:00 GST 2012, amount=258.669010375204], AccountStatement [date=Wed Aug 29 00:00:00 GST 2012, amount=537.263739510225], AccountStatement [date=Fri May 04 00:00:00 GST 2012, amount=289.279082576802], AccountStatement [date=Fri Jul 13 00:00:00 GST 2012, amount=585.269254817154], AccountStatement [date=Wed Sep 05 00:00:00 GST 2012, amount=968.120471616201], AccountStatement [date=Wed Jul 04 00:00:00 GST 2012, amount=113.405299633134], AccountStatement [date=Sun Jan 15 00:00:00 GST 2012, amount=732.785475399635], AccountStatement [date=Sun Apr 08 00:00:00 GST 2012, amount=452.220841246041], AccountStatement [date=Wed Nov 14 00:00:00 GST 2012, amount=376.917602681929], AccountStatement [date=Sat Nov 23 00:00:00 GST 2019, amount=103.422615473659], AccountStatement [date=Sun May 24 00:00:00 GST 2020, amount=301.475914804549]]
+2022-05-31 15:24:53,839 INFO c.n.a.a.c.AccountStatementsController [http-nio-8080-exec-5] Inside Account Statement Controller
+2022-05-31 15:24:53,840 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-5] Inside Account Statement Service
+2022-05-31 15:24:53,842 DEBUG c.n.a.a.d.AccountStatementRepo [http-nio-8080-exec-5] Inside Account Statement Repository
+2022-05-31 15:24:53,865 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-5] Filtered statements: [AccountStatement [date=Wed Jul 01 00:00:00 GST 2020, amount=869.966470373683], AccountStatement [date=Tue May 14 00:00:00 GST 2019, amount=957.272849951391], AccountStatement [date=Fri Jan 13 00:00:00 GST 2012, amount=893.061976381444], AccountStatement [date=Sat May 05 00:00:00 GST 2012, amount=803.304917411143], AccountStatement [date=Tue Jul 31 00:00:00 GST 2012, amount=828.245746980652], AccountStatement [date=Sun Dec 30 00:00:00 GST 2012, amount=811.442741186215], AccountStatement [date=Wed Sep 05 00:00:00 GST 2012, amount=968.120471616201]]
+2022-05-31 15:25:13,942 INFO c.n.a.a.c.AccountStatementsController [http-nio-8080-exec-7] Inside Account Statement Controller
+2022-05-31 15:25:13,942 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-7] Inside Account Statement Service
+2022-05-31 15:25:13,944 DEBUG c.n.a.a.d.AccountStatementRepo [http-nio-8080-exec-7] Inside Account Statement Repository
+2022-05-31 15:25:13,954 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-7] Filtered statements: [AccountStatement [date=Wed Jul 01 00:00:00 GST 2020, amount=869.966470373683], AccountStatement [date=Fri Jan 13 00:00:00 GST 2012, amount=893.061976381444], AccountStatement [date=Sat May 05 00:00:00 GST 2012, amount=803.304917411143], AccountStatement [date=Tue Jul 31 00:00:00 GST 2012, amount=828.245746980652], AccountStatement [date=Sun Dec 30 00:00:00 GST 2012, amount=811.442741186215]]
+2022-05-31 15:28:21,888 INFO c.n.a.a.c.AccountStatementsController [http-nio-8080-exec-9] Inside Account Statement Controller
+2022-05-31 15:28:21,890 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-9] Inside Account Statement Service
+2022-05-31 15:28:21,893 DEBUG c.n.a.a.d.AccountStatementRepo [http-nio-8080-exec-9] Inside Account Statement Repository
+2022-05-31 15:28:22,056 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-9] Filtered statements: [AccountStatement [date=Wed Jul 01 00:00:00 GST 2020, amount=869.966470373683]]
+2022-05-31 15:28:30,769 INFO c.n.a.a.c.AccountStatementsController [http-nio-8080-exec-2] Inside Account Statement Controller
+2022-05-31 15:28:30,769 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-2] Inside Account Statement Service
+2022-05-31 15:28:30,773 DEBUG c.n.a.a.d.AccountStatementRepo [http-nio-8080-exec-2] Inside Account Statement Repository
+2022-05-31 15:28:30,793 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-2] Filtered statements: []
+2022-05-31 15:28:30,794 ERROR c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-2] No records found
+2022-05-31 15:28:36,277 INFO c.n.a.a.c.AccountStatementsController [http-nio-8080-exec-3] Inside Account Statement Controller
+2022-05-31 15:28:36,277 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-3] Inside Account Statement Service
+2022-05-31 15:28:36,279 DEBUG c.n.a.a.d.AccountStatementRepo [http-nio-8080-exec-3] Inside Account Statement Repository
+2022-05-31 15:28:36,290 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-3] Filtered statements: []
+2022-05-31 15:28:36,290 ERROR c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-3] No records found
+2022-05-31 15:28:41,052 INFO c.n.a.a.c.AccountStatementsController [http-nio-8080-exec-5] Inside Account Statement Controller
+2022-05-31 15:28:41,052 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-5] Inside Account Statement Service
+2022-05-31 15:28:41,054 DEBUG c.n.a.a.d.AccountStatementRepo [http-nio-8080-exec-5] Inside Account Statement Repository
+2022-05-31 15:28:41,061 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-5] Filtered statements: [AccountStatement [date=Wed Jul 01 00:00:00 GST 2020, amount=869.966470373683], AccountStatement [date=Fri Jan 13 00:00:00 GST 2012, amount=893.061976381444], AccountStatement [date=Sat May 05 00:00:00 GST 2012, amount=803.304917411143], AccountStatement [date=Tue Jul 31 00:00:00 GST 2012, amount=828.245746980652], AccountStatement [date=Sun Dec 30 00:00:00 GST 2012, amount=811.442741186215]]
+2022-05-31 15:28:51,992 INFO c.n.a.a.c.AccountStatementsController [http-nio-8080-exec-7] Inside Account Statement Controller
+2022-05-31 15:28:51,993 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-7] Inside Account Statement Service
+2022-05-31 15:28:51,995 DEBUG c.n.a.a.d.AccountStatementRepo [http-nio-8080-exec-7] Inside Account Statement Repository
+2022-05-31 15:28:52,002 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-7] Filtered statements: [AccountStatement [date=Wed Jul 01 00:00:00 GST 2020, amount=869.966470373683], AccountStatement [date=Fri Jan 13 00:00:00 GST 2012, amount=893.061976381444], AccountStatement [date=Sat May 05 00:00:00 GST 2012, amount=803.304917411143], AccountStatement [date=Tue Jul 31 00:00:00 GST 2012, amount=828.245746980652], AccountStatement [date=Sun Dec 30 00:00:00 GST 2012, amount=811.442741186215]]
+2022-05-31 15:29:01,472 INFO c.n.a.a.c.AccountStatementsController [http-nio-8080-exec-10] Inside Account Statement Controller
+2022-05-31 15:29:01,472 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-10] Inside Account Statement Service
+2022-05-31 15:29:01,476 DEBUG c.n.a.a.d.AccountStatementRepo [http-nio-8080-exec-10] Inside Account Statement Repository
+2022-05-31 15:29:01,481 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-10] Filtered statements: [AccountStatement [date=Wed Jul 01 00:00:00 GST 2020, amount=869.966470373683]]
+2022-05-31 15:29:08,719 INFO c.n.a.a.c.AccountStatementsController [http-nio-8080-exec-2] Inside Account Statement Controller
+2022-05-31 15:29:08,719 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-2] Inside Account Statement Service
+2022-05-31 15:29:08,722 DEBUG c.n.a.a.d.AccountStatementRepo [http-nio-8080-exec-2] Inside Account Statement Repository
+2022-05-31 15:29:08,727 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-2] Filtered statements: [AccountStatement [date=Wed Jul 01 00:00:00 GST 2020, amount=869.966470373683]]
+2022-05-31 15:40:01,348 WARN c.n.a.a.c.JwtRequestFilter [http-nio-8080-exec-3] JWT Token does not begin with Bearer String
+2022-05-31 15:40:12,172 INFO c.n.a.a.c.AccountStatementsController [http-nio-8080-exec-5] Inside Account Statement Controller
+2022-05-31 15:40:12,173 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-5] Inside Account Statement Service
+2022-05-31 15:40:50,374 DEBUG c.n.a.a.d.AccountStatementRepo [http-nio-8080-exec-5] Inside Account Statement Repository
+2022-05-31 15:41:04,338 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-5] Filtered statements: [AccountStatement [date=Wed Jul 01 00:00:00 GST 2020, amount=869.966470373683]]
+2022-05-31 16:12:34,773 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Starting AccountStatementsApplication on Ashutoshs-MacBook-Pro.local with PID 38347 (/Users/ashutoshgupta/Downloads/account-statements/target/classes started by ashutoshgupta in /Users/ashutoshgupta/Downloads/account-statements)
+2022-05-31 16:12:34,808 DEBUG c.n.a.a.AccountStatementsApplication [restartedMain] Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2022-05-31 16:12:34,811 INFO c.n.a.a.AccountStatementsApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-31 16:12:39,275 DEBUG c.n.a.a.c.JwtRequestFilter [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-05-31 16:12:41,223 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Started AccountStatementsApplication in 8.675 seconds (JVM running for 10.571)
+2022-05-31 16:12:48,682 WARN c.n.a.a.c.JwtRequestFilter [http-nio-8080-exec-1] JWT Token does not begin with Bearer String
+2022-05-31 16:12:51,067 WARN c.n.a.a.c.JwtRequestFilter [http-nio-8080-exec-3] JWT Token does not begin with Bearer String
+2022-05-31 16:13:10,199 INFO c.n.a.a.c.AccountStatementsController [http-nio-8080-exec-5] Inside Account Statement Controller
+2022-05-31 16:13:10,200 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-5] Inside Account Statement Service
+2022-05-31 16:13:33,717 INFO c.n.a.a.c.AccountStatementsController [http-nio-8080-exec-6] Inside Account Statement Controller
+2022-05-31 16:13:33,717 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-6] Inside Account Statement Service
+2022-05-31 16:13:33,722 DEBUG c.n.a.a.d.AccountStatementRepo [http-nio-8080-exec-6] Inside Account Statement Repository
+2022-05-31 16:13:35,780 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-6] Filtered statements: [AccountStatement [date=Wed Jul 01 00:00:00 GST 2020, amount=869.966470373683], AccountStatement [date=Fri Jan 13 00:00:00 GST 2012, amount=893.061976381444], AccountStatement [date=Sat May 05 00:00:00 GST 2012, amount=803.304917411143], AccountStatement [date=Tue Jul 31 00:00:00 GST 2012, amount=828.245746980652], AccountStatement [date=Sun Dec 30 00:00:00 GST 2012, amount=811.442741186215]]
+2022-05-31 16:13:44,059 INFO c.n.a.a.c.AccountStatementsController [http-nio-8080-exec-7] Inside Account Statement Controller
+2022-05-31 16:13:44,059 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-7] Inside Account Statement Service
+2022-05-31 16:14:16,661 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Starting AccountStatementsApplication on Ashutoshs-MacBook-Pro.local with PID 38347 (/Users/ashutoshgupta/Downloads/account-statements/target/classes started by ashutoshgupta in /Users/ashutoshgupta/Downloads/account-statements)
+2022-05-31 16:14:16,662 DEBUG c.n.a.a.AccountStatementsApplication [restartedMain] Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2022-05-31 16:14:16,663 INFO c.n.a.a.AccountStatementsApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-31 16:14:18,040 DEBUG c.n.a.a.c.JwtRequestFilter [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-05-31 16:14:18,617 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Started AccountStatementsApplication in 2.41 seconds (JVM running for 107.962)
+2022-05-31 16:14:22,575 INFO c.n.a.a.c.AccountStatementsController [http-nio-8080-exec-1] Inside Account Statement Controller
+2022-05-31 16:14:22,576 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-1] Inside Account Statement Service
+2022-05-31 16:14:22,591 DEBUG c.n.a.a.d.AccountStatementRepo [http-nio-8080-exec-1] Inside Account Statement Repository
+2022-05-31 16:14:22,656 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-1] Filtered statements: [AccountStatement [date=Wed Jul 01 00:00:00 GST 2020, amount=869.966470373683]]
+2022-05-31 16:14:28,814 INFO c.n.a.a.c.AccountStatementsController [http-nio-8080-exec-3] Inside Account Statement Controller
+2022-05-31 16:14:28,816 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-3] Inside Account Statement Service
+2022-05-31 16:14:28,822 DEBUG c.n.a.a.d.AccountStatementRepo [http-nio-8080-exec-3] Inside Account Statement Repository
+2022-05-31 16:14:28,869 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-3] Filtered statements: [AccountStatement [date=Wed Jul 01 00:00:00 GST 2020, amount=869.966470373683]]
+2022-05-31 16:14:34,278 INFO c.n.a.a.c.AccountStatementsController [http-nio-8080-exec-5] Inside Account Statement Controller
+2022-05-31 16:14:34,278 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-5] Inside Account Statement Service
+2022-05-31 16:14:34,285 DEBUG c.n.a.a.d.AccountStatementRepo [http-nio-8080-exec-5] Inside Account Statement Repository
+2022-05-31 16:14:34,310 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-5] Filtered statements: [AccountStatement [date=Wed Jul 01 00:00:00 GST 2020, amount=869.966470373683]]
+2022-05-31 16:47:48,675 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Starting AccountStatementsApplication on Ashutoshs-MBP with PID 38719 (/Users/ashutoshgupta/Downloads/account-statements/target/classes started by ashutoshgupta in /Users/ashutoshgupta/Downloads/account-statements)
+2022-05-31 16:47:48,682 DEBUG c.n.a.a.AccountStatementsApplication [restartedMain] Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2022-05-31 16:47:48,683 INFO c.n.a.a.AccountStatementsApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-31 16:47:50,553 DEBUG c.n.a.a.c.JwtRequestFilter [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-05-31 16:47:51,402 INFO c.n.a.a.AccountStatementsApplication [restartedMain] Started AccountStatementsApplication in 3.777 seconds (JVM running for 4.653)
+2022-05-31 16:51:08,234 WARN c.n.a.a.c.JwtRequestFilter [http-nio-8080-exec-1] JWT Token does not begin with Bearer String
+2022-05-31 16:51:24,021 INFO c.n.a.a.c.AccountStatementsController [http-nio-8080-exec-2] Inside Account Statement Controller
+2022-05-31 16:51:24,021 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-2] Inside Account Statement Service
+2022-05-31 16:51:27,947 INFO c.n.a.a.c.AccountStatementsController [http-nio-8080-exec-3] Inside Account Statement Controller
+2022-05-31 16:51:27,947 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-3] Inside Account Statement Service
+2022-05-31 16:51:27,950 DEBUG c.n.a.a.d.AccountStatementRepo [http-nio-8080-exec-3] Inside Account Statement Repository
+2022-05-31 16:51:28,676 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-3] Filtered statements: [AccountStatement [date=Wed Jul 01 00:00:00 GST 2020, amount=869.966470373683]]
+2022-05-31 16:51:40,347 INFO c.n.a.a.c.AccountStatementsController [http-nio-8080-exec-5] Inside Account Statement Controller
+2022-05-31 16:51:40,347 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-5] Inside Account Statement Service
+2022-05-31 16:51:46,257 INFO c.n.a.a.c.AccountStatementsController [http-nio-8080-exec-6] Inside Account Statement Controller
+2022-05-31 16:51:46,258 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-6] Inside Account Statement Service
+2022-05-31 16:51:54,754 INFO c.n.a.a.c.AccountStatementsController [http-nio-8080-exec-7] Inside Account Statement Controller
+2022-05-31 16:51:54,755 INFO c.n.a.a.s.AccountStatementsService [http-nio-8080-exec-7] Inside Account Statement Service
